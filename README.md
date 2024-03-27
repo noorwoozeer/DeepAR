@@ -3,7 +3,7 @@
 ## Setup license key
 1. Go to https://developer.deepar.ai
 2. Sign up
-3. Create a project and a Web app
+3. Create a project and a Web ap p
 4. Copy the license key
 5. Paste it into `src/index.js` (replace `your_license_key_goes_here`)
 
